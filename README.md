@@ -1,1 +1,1 @@
-# resources-guide
+# Code committee website

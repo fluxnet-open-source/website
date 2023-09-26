@@ -1,0 +1,3 @@
+name: code-committee-website
+dependencies:
+- conda-forge::jupyter-book
