@@ -1,4 +1,4 @@
-# Testing / CI/CD
+# Testing & CI/CD
 
 Software testing is the process of evaluating and verifying your code. It is a way to ensure that your code is doing what you expect it to, preventing bugs, reducing development costs, and improving performance. This process is often done automatically to save time and effort. This is called continuous integration (CI) and continuous delivery/deployment (CD).
 
