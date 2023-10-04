@@ -45,7 +45,6 @@ Every primary source control website (GitHub, GitLab, bitbucket, etc.) have some
 #### Python
 
 * [Pytest](https://docs.pytest.org/): Pytest is a an test writing package in Python. You write tests of your code as a function that you expect to pass and then can run all tests locally at once or in a GitHub workflow automatically.
-* 
 * [Unit test](https://docs.python.org/3/library/unittest.html): Unit Test is the other most popular test writing package in Python.
 * [Coverage](https://coverage.readthedocs.io/) (code coverage): Coverage is a code coverage metric package. Coverage is a metric of how much your tests cover your code. So, 80% of your code's lines were run when you ran all of your tests, and you have 80% coverage. There is a bit more to it than that, but that is the basic idea.
 
