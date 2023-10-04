@@ -8,7 +8,7 @@ When documenting your code, you want to document it both internally and external
 
 You want to document your code internally for developers through the use of comments, docstrings (function comments), and well-named variables or functions so that future developers can more easily navigate the logic of the code (note, future developers maybe you in 3 months after you forget why you wrote something a certain way).
 
-You also ideally want to document your code externally in some way for users through a [documentation hosting page service](#where-to-publish-documentation-for-free) and ideally use an [automatic documentation generating](#automatic-code-documentation) tool that makes documentation directly from your code (so your documentation stays in line with your code and does not get out of date as quickly) while also allowing you to supplement with additional handcrafted documents.
+You also ideally want to document your code externally in some way for users through a Documentation hosting page service and ideally use an Automatic documentation generating tool that makes documentation directly from your code (so your documentation stays in line with your code and does not get out of date as quickly) while also allowing you to supplement with additional handcrafted documents.
 
 Through these two methods, internal and external documentation, you open up your code to be more maintainable, used by other people, and contributed to by other developers.
 
