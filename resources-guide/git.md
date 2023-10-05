@@ -10,6 +10,7 @@ Linked below are several excellent detailed descriptions and tutorials on the bu
 * [Why you need Git in academia?](https://github.com/mikecroucher/Git_Academic_Benefits)
 * [Git basics](https://docs.github.com/en/get-started/using-git/about-git)
 * [Git workflow models](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Pro Git Book](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub. Comprehensive concepts, with tutorials.
 
 ### Tutorials
 * [Git tutorial for novices](https://swcarpentry.github.io/git-novice/) from Software Carpentry
@@ -20,3 +21,4 @@ Linked below are several excellent detailed descriptions and tutorials on the bu
 * [Pre-commit](https://pre-commit.com): git commit hook manager
 * [A brief explanation of .gitignore](https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html) for RStudio
 * [Git Large File Storage](https://git-lfs.com/)
+* [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
