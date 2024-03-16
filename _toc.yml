@@ -5,6 +5,7 @@ parts:
   chapters:
   - file: about/charter
   - file: about/get-involved
+  - file: about/contributing
 - caption: Resources Guide
   chapters:
   - file: resources-guide/index
