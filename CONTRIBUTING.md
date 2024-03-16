@@ -18,7 +18,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
 - [Suggesting Enhancements](#suggesting-enhancements)
-- [Reporting Bugs](#reporting-bugs)
+- [Reporting Bugs](#reporting-a-bug)
 - [Your First Code Contribution](#your-first-code-contribution)
 - [Improving The Documentation](#improving-the-documentation)
 - [Styleguides](#styleguides)
@@ -36,7 +36,7 @@ This project and everyone participating in it is governed by the
 
 > If you want to ask a question, we assume that you have read the available [Documentation](https://fluxnet-open-source.readthedocs.io/en/latest/).
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/fluxnet-open-source/website/issues?q=) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in a new issue.
+Before you ask a question, it is best to search for existing [Issues](https://github.com/fluxnet-open-source/website/issues?q=) that might help you. If you don't find an existing issue and still need clarification, you can write your question in a new issue.
 
 - Open an [Issue](https://github.com/fluxnet-open-source/website/issues/new).
 - Provide as much context as to what you are trying to achieve or what new information you are looking for.
@@ -78,8 +78,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/fluxne
 Bugs can happen in our tutorials or even code snippets in the documentation. if you find a bug, please report it. A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
 - Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://fluxnet-open-source.readthedocs.io/en/latest/). 
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the (https://github.com/fluxnet-open-source/website/issues?q=).
+- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (make sure that you have read the [documentation](https://fluxnet-open-source.readthedocs.io/en/latest/)). 
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [Issues](https://github.com/fluxnet-open-source/website/issues?q=).
 - Collect information about the bug:
 - Stack trace (Traceback)
 - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
