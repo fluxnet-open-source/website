@@ -19,10 +19,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Want To Contribute](#i-want-to-contribute)
 - [Suggesting Enhancements](#suggesting-enhancements)
 - [Reporting Bugs](#reporting-a-bug)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
 
 
@@ -46,6 +42,12 @@ Before you ask a question, it is best to search for existing [Issues](https://gi
 
 > ### Legal Notice <!-- omit in toc -->
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
+
+### Updating the Website
+
+The website (outside of tutorials) is built in Markdown, if you want to update the website, you can do so by editing the markdown files in the `docs` folder. If you want to add a new page, you can do so by creating a new markdown file in the `docs` folder. You can edit the website directly on GitHub by clicking the pencil icon on the file you want to edit, or you can clone the repository and edit the files locally. In addition, on the website itself there is a button to edit the page on GitHub, just look for the GitHub logo, then click on "Suggest Edit".
+
+After you have made your changes, you can submit a pull request (see https://www.atlassian.com/git/tutorials/making-a-pull-request or https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `main` branch.
 
 
 ### Suggesting Enhancements
