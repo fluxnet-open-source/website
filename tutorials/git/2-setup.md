@@ -14,9 +14,12 @@ This guide will walk you through the installation process for Windows, macOS, an
 ## Table of Contents
 
 1. [Creating a GitHub Account](#creating-a-github-account)
-2. [Installing GitHub Desktop on Windows](#installing-github-desktop-on-windows)
-3. [Installing GitHub Desktop on macOS](#installing-github-desktop-on-macos)
-4. [Installing GitHub Desktop on Ubuntu](#installing-github-desktop-on-ubuntu)
+1. [Installing GitHub Desktop](#installing-github-desktop)
+    - [Windows](#windows)
+    - [macOS](#macos)
+    - [Ubuntu](#ubuntu)
+1. [Install IDE (Integrated Development Environment) or Text Editor](#install-ide-integrated-development-environment-or-text-editor)
+
 
 ## Creating a GitHub Account
 
@@ -35,46 +38,55 @@ all accounts to have
 configured for extra security.
 Several options exist for setting up 2FA, you can find 2FA setup instructions for GitHub [here](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
-## Installing GitHub Desktop on Windows
+## Installing GitHub Desktop
 
-### Step 1: Download GitHub Desktop
+### Windows
+
+#### Step 1: Download GitHub Desktop
 
 1. Open your web browser and go to the [GitHub Desktop website](https://desktop.github.com/).
 2. Click the `Download for Windows` button.
 
-### Step 2: Install GitHub Desktop
+#### Step 2: Install GitHub Desktop
 
 1. Once the download is complete, locate the `GitHubDesktopSetup.exe` file in your downloads folder and double-click it to start the installation.
 2. Follow the on-screen instructions to complete the installation.
 
-### Step 3: Launch GitHub Desktop
+#### Step 3: Launch GitHub Desktop
 
 1. After the installation is complete, GitHub Desktop should launch automatically. If it doesn’t, you can find it in your Start menu and launch it from there.
 2. Sign in to your GitHub account or create a new one if you don’t have an account.
 
-## Installing GitHub Desktop on macOS
+### macOS
 
-### Step 1: Download GitHub Desktop
+#### Step 1: Download GitHub Desktop
 
 1. Open your web browser and go to the [GitHub Desktop website](https://desktop.github.com/).
 2. If you have an Apple Silicon (M1, M2, etc.) Mac, click the `Download for Apple Silicon` button. If you have an Intel-based Mac, click the `Download for MacOS` button.
   - If you're not sure which version you have, you can check by clicking the Apple logo in the top-left corner of your screen, selecting `About This Mac`. 
   - You can also download the intel version on an Apple Silicon Mac (the `Download for MacOS` button), but it will run a little slower.
 
-### Step 2: Install GitHub Desktop
+#### Step 2: Install GitHub Desktop
 
 1. Once the download is complete, locate the `GitHub Desktop.zip` file in your downloads folder and double-click it to extract the application if it did not extract automatically. Click the extracted `GitHub Desktop` application to open it.
 2. Drag the `GitHub Desktop` application into your `Applications` folder.
 
-### Step 3: Launch GitHub Desktop
+#### Step 3: Launch GitHub Desktop
 
 1. Open the `Applications` folder and double-click `GitHub Desktop` to launch it.
 2. Sign in to your GitHub account or create a new one if you don’t have an account.
 
-## Installing GitHub Desktop on Ubuntu
+### Ubuntu
 
 GitHub Desktop is not officially available for Linux, but because the source code is open-source, there is a fork for linux called [ShiftKey GitHub Desktop](https://github.com/shiftkey/desktop). Installation instructions for your distribution can be found on the [ShiftKey GitHub Desktop page](https://github.com/shiftkey/desktop)
 
-## Conclusion
+## Install IDE (Integrated Development Environment) or Text Editor
 
-You've now installed GitHub Desktop on your computer, whether you're using Windows, macOS, or Linux. This tool will help you manage your repositories with a graphical interface, making it easier to collaborate on projects and keep track of changes. 
+To work with your code, you will need an IDE or text editor. You may already have one installed that you are comfortable with such as Visual Studio Code (VS Code), PyCharm, RStudio, or another. If you don't have one installed, here are some popular options:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+  - works with many languages and has a large number of extensions available
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+  - Python focused, but works with other languages as well
+- [RStudio](https://www.rstudio.com/)
+  - R focused, but works with other languages as well
