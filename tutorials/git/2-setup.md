@@ -4,10 +4,10 @@
 
 GitHub Desktop is a GUI (Graphical User Interface) easy-to-use application that simplifies using Git and GitHub on your computer. The main advantages of using GitHub Desktop include:
 
-- Low learning curve: GitHub Desktop is designed to be user-friendly and easy to use, making it a great choice for beginners. If you're new to Git and GitHub, GitHub Desktop can help you get started quickly.
-- GitHub Integration. GitHub Desktop is specifically designed for use with GitHub, making it easy to work with your GitHub repositories. You can clone repositories, create branches, commit changes, and push changes to GitHub directly from the application.
-- Encourages best practices. GitHub Desktop guides you through common Git workflows, such as creating a new branch, committing changes, and pushing changes to a remote repository. This can help you follow best practices and avoid common mistakes.
-- Find commands. Because of its graphical interface, GitHub Desktop can help you find the commands you need to perform common Git operations. This can be especially helpful if you're not familiar with the command-line interface.
+- **Low learning curve**: GitHub Desktop is designed to be user-friendly and easy to use, making it a great choice for beginners. If you're new to Git and GitHub, GitHub Desktop can help you get started quickly.
+- **GitHub Integration**: GitHub Desktop is specifically designed for use with GitHub, making it easy to work with your GitHub repositories. You can clone repositories, create branches, commit changes, and push changes to GitHub directly from the application.
+- **Encourages best practices**: GitHub Desktop guides you through common Git workflows, such as creating a new branch, committing changes, and pushing changes to a remote repository. This can help you follow best practices and avoid common mistakes.
+- **Find commands**: Because of its graphical interface, GitHub Desktop can help you find the commands you need to perform common Git operations. This can be especially helpful if you're not familiar with the command-line interface.
 
 This guide will walk you through the installation process for Windows, macOS, and Linux. 
 
@@ -47,7 +47,6 @@ This guide will walk you through the installation process for Windows, macOS, an
 
 1. Once the download is complete, locate the `GitHub Desktop.zip` file in your downloads folder and double-click it to extract the application if it did not extract automatically. Click the extracted `GitHub Desktop` application to open it.
 2. Drag the `GitHub Desktop` application into your `Applications` folder.
-3. 
 
 ### Step 3: Launch GitHub Desktop
 
