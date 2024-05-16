@@ -9,10 +9,11 @@ Version control is a system that records changes to a file or set of files over 
 1. [Overview of Git](1-basics.md)
 1. [Setup instructions](2-setup.md)
 
+## Chapters to be added
 
-- clone a repository
 - set up their own repositories
   - gitignore
+- clone a repository
 - commit changes
 - create branches
 - submit pull requests

@@ -11,7 +11,7 @@ GitHub Desktop is a GUI (Graphical User Interface) easy-to-use application that 
 
 There are many alternatives to GitHub Desktop, such as GitKraken or integrations with IDEs like Visual Studio Code, but GitHub Desktop is a good choice if you're new to Git and GitHub. Other tools may offer more advanced features or integration with your preferred IDE, so may be worth exploring once you're more comfortable with Git.
 
-- [GitKraken](https://www.gitkraken.com): A popular Git GUI that offers a wide range of features, including integrations with popular services like Git log tree, AI commit messages, and more.
+- [GitKraken](https://www.gitkraken.com): A popular Git GUI application that offers a wide range of features, including features not present in GitHub Desktop such as a Git log tree, AI commit messages, and more.
 - [Visual Studio Code](https://code.visualstudio.com): A popular code editor that includes built-in Git support, allowing you to perform common Git operations directly from the editor.
 - Any other IDE or text editor you prefer may have Git integration built-in or available as an extension.
 
@@ -25,7 +25,6 @@ This guide will walk you through the installation process for Windows, macOS, an
     - [macOS](#macos)
     - [Linux](#linux)
 1. [Install IDE (Integrated Development Environment) or Text Editor](#install-ide-integrated-development-environment-or-text-editor)
-
 
 ## Creating a GitHub Account
 
