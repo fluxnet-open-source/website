@@ -4,7 +4,7 @@
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to collaborate on a project, keeps track of every modification to the code, and can help revert to a previous version if necessary, but even if you are working alone, it can make things so much easier:
 
-![Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc" - source: https://phdcomics.com/comics/archive.php?comicid=1531](fig%2Fphd101212s.png)
+![Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc" - source: https://phdcomics.com/comics/archive.php?comicid=1531](fig/phd101212s.png)
 
 ### Key Features of Version Control:
 
@@ -34,17 +34,17 @@ Version control allows multiple developers to work on the same project simultane
 
 Every change made to the project is recorded, providing a complete history of the project. This is crucial for understanding what changes were made, by whom, and why. It also acts as a backup, allowing you to revert to previous versions if needed.
 
-![Graphic: Changes Are Saved Sequentially - source: https://github.com/swcarpentry/git-novice](fig%2Fplay-changes.svg)
+![Graphic: Changes Are Saved Sequentially - source: https://github.com/swcarpentry/git-novice](fig/play-changes.svg)
 
 ### 3. **Branching and Experimentation**
 
 Git allows you to create branches to work on new features, bug fixes, or experiments without affecting the main codebase. 
 
-![Graphic: Different Versions Can be Saved - source: https://github.com/swcarpentry/git-novice](fig%2Fversions.svg)
+![Graphic: Different Versions Can be Saved - source: https://github.com/swcarpentry/git-novice](fig/versions.svg)
 
 Once the work is complete and tested, you can merge the branch back into the main codebase.
 
-![Graphic: Multiple Versions Can be Merged - source: https://github.com/swcarpentry/git-novice](fig%2Fmerge.svg)
+![Graphic: Multiple Versions Can be Merged - source: https://github.com/swcarpentry/git-novice](fig/merge.svg)
 
 
 ## What is GitHub?
