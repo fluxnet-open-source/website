@@ -8,9 +8,10 @@ parts:
   - file: about/contributing
 - caption: Tutorials
   chapters:
-  - file: tutorials/index
+  - file: tutorials/git/index
     sections:
     - file: tutorials/git/1-basics
+    - file: tutorials/git/2-setup
 - caption: Resources Guide
   chapters:
   - file: resources-guide/index
