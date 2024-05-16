@@ -34,17 +34,17 @@ Version control allows multiple developers to work on the same project simultane
 
 Every change made to the project is recorded, providing a complete history of the project. This is crucial for understanding what changes were made, by whom, and why. It also acts as a backup, allowing you to revert to previous versions if needed.
 
-![Graphic: Changes Are Saved Sequentially - source: https://github.com/swcarpentry/git-novice](fig/play-changes.svg)
+![Graphic: Changes Are Saved Sequentially - source: https://github.com/swcarpentry/git-novice](fig/play-changes.svg){w=400px}
 
 ### 3. **Branching and Experimentation**
 
 Git allows you to create branches to work on new features, bug fixes, or experiments without affecting the main codebase. 
 
-![Graphic: Different Versions Can be Saved - source: https://github.com/swcarpentry/git-novice](fig/versions.svg)
+![Graphic: Different Versions Can be Saved - source: https://github.com/swcarpentry/git-novice](fig/versions.svg){w=400px}
 
 Once the work is complete and tested, you can merge the branch back into the main codebase.
 
-![Graphic: Multiple Versions Can be Merged - source: https://github.com/swcarpentry/git-novice](fig/merge.svg)
+![Graphic: Multiple Versions Can be Merged - source: https://github.com/swcarpentry/git-novice](fig/merge.svg){w=400px}
 
 
 ## What is GitHub?

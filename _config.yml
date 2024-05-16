@@ -24,6 +24,10 @@ repository:
   url                       : https://github.com/fluxnet-open-source/resources-guide  # The URL to your book's repository
   branch                    : main  # Which branch of the repository should be used when creating links
 
+parse:
+  myst_enable_extensions:
+    - attrs_inline
+
 sphinx:
   config:
     exclude_patterns:
