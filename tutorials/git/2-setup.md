@@ -17,7 +17,7 @@ This guide will walk you through the installation process for Windows, macOS, an
 1. [Installing GitHub Desktop](#installing-github-desktop)
     - [Windows](#windows)
     - [macOS](#macos)
-    - [Ubuntu](#ubuntu)
+    - [Linux](#linux)
 1. [Install IDE (Integrated Development Environment) or Text Editor](#install-ide-integrated-development-environment-or-text-editor)
 
 
@@ -76,7 +76,7 @@ Several options exist for setting up 2FA, you can find 2FA setup instructions fo
 1. Open the `Applications` folder and double-click `GitHub Desktop` to launch it.
 2. Sign in to your GitHub account or create a new one if you don’t have an account.
 
-### Ubuntu
+### Linux
 
 GitHub Desktop is not officially available for Linux, but because the source code is open-source, there is a fork for linux called [ShiftKey GitHub Desktop](https://github.com/shiftkey/desktop). Installation instructions for your distribution can be found on the [ShiftKey GitHub Desktop page](https://github.com/shiftkey/desktop)
 
