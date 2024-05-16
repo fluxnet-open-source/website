@@ -6,6 +6,11 @@ parts:
   - file: about/charter
   - file: about/get-involved
   - file: about/contributing
+- caption: Tutorials
+  chapters:
+  - file: tutorials/index
+    sections:
+    - file: tutorials/git/1-basics
 - caption: Resources Guide
   chapters:
   - file: resources-guide/index
