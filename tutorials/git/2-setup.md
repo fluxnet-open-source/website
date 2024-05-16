@@ -1,13 +1,8 @@
-# Setup GitHub Desktop on Windows, macOS, and Ubuntu
+# Setup GitHub Desktop on Windows, macOS, or Ubuntu
 
 ## Introduction
 
-GitHub Desktop is a GUI (Graphical User Interface) easy-to-use application that simplifies using Git and GitHub on your computer. The main advantages of using GitHub Desktop include:
-
-- **Low learning curve**: GitHub Desktop is designed to be user-friendly and easy to use, making it a great choice for beginners. If you're new to Git and GitHub, GitHub Desktop can help you get started quickly.
-- **GitHub Integration**: GitHub Desktop is specifically designed for use with GitHub, making it easy to work with your GitHub repositories. You can clone repositories, create branches, commit changes, and push changes to GitHub directly from the application.
-- **Encourages best practices**: GitHub Desktop guides you through common Git workflows, such as creating a new branch, committing changes, and pushing changes to a remote repository. This can help you follow best practices and avoid common mistakes.
-- **Find commands**: Because of its graphical interface, GitHub Desktop can help you find the commands you need to perform common Git operations. This can be especially helpful if you're not familiar with the command-line interface.
+There are many ways to interact with Git and GitHub, both through the command line and through a graphical user interface (GUI), but in this tutorial we will be using GitHub Desktop. We chose GitHub Desktop because it is free, provides a graphical interface which can be easier to use for beginners, and is not tied to a specific IDE or text editor.
 
 There are many alternatives to GitHub Desktop, such as GitKraken or integrations with IDEs like Visual Studio Code, but GitHub Desktop is a good choice if you're new to Git and GitHub. Other tools may offer more advanced features or integration with your preferred IDE, so may be worth exploring once you're more comfortable with Git.
 
