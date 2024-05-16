@@ -1,4 +1,4 @@
-# Installing GitHub Desktop on Windows, macOS, and Ubuntu
+# Setup GitHub Desktop on Windows, macOS, and Ubuntu
 
 ## Introduction
 
@@ -13,9 +13,27 @@ This guide will walk you through the installation process for Windows, macOS, an
 
 ## Table of Contents
 
-1. [Installing GitHub Desktop on Windows](#installing-github-desktop-on-windows)
-2. [Installing GitHub Desktop on macOS](#installing-github-desktop-on-macos)
-3. [Installing GitHub Desktop on Ubuntu](#installing-github-desktop-on-ubuntu)
+1. [Creating a GitHub Account](#creating-a-github-account)
+2. [Installing GitHub Desktop on Windows](#installing-github-desktop-on-windows)
+3. [Installing GitHub Desktop on macOS](#installing-github-desktop-on-macos)
+4. [Installing GitHub Desktop on Ubuntu](#installing-github-desktop-on-ubuntu)
+
+## Creating a GitHub Account
+
+You will need an account for [GitHub](https://github.com) to use GitHub Desktop. Here's how to create one:
+
+1. Go to <https://github.com> and follow the "Sign up" link at the top-right of the window.
+2. Follow the instructions to create an account.
+3. Verify your email address with GitHub.
+4. Configure multifactor authentication (see below).
+
+### Multi-factor Authentication
+
+In 2023, GitHub introduced a requirement for 
+all accounts to have 
+[multi-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication) 
+configured for extra security.
+Several options exist for setting up 2FA, you can find 2FA setup instructions for GitHub [here](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 ## Installing GitHub Desktop on Windows
 
