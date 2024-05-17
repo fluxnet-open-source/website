@@ -80,7 +80,16 @@ Several options exist for setting up 2FA, you can find 2FA setup instructions fo
 
 GitHub Desktop is not officially available for Linux, but because the source code is open-source, there is a fork for linux called [ShiftKey GitHub Desktop](https://github.com/shiftkey/desktop). Installation instructions for your distribution can be found on the [ShiftKey GitHub Desktop page](https://github.com/shiftkey/desktop)
 
-## Install IDE (Integrated Development Environment) or Text Editor
+## Install Git - Optional
+
+Github Desktop comes with its own trimmed down version of Git, so you don't need to install Git separately. However, this version of Git is not assessable from the command line. 
+
+If you want to use Git from the command line, you can install Git separately.
+You can find instructions for installing Git on Windows, macOS, and Linux [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+
+On macOS and Linux, git is often pre-installed, so you may not need to install it, you can check by opening a terminal and typing `git --version`.
+
+## Install IDE (Integrated Development Environment) or Text Editor - Optional
 
 To work with your code, you will need an IDE or text editor. You may already have one installed that you are comfortable with such as Visual Studio Code (VS Code), PyCharm, RStudio, or another. If you don't have one installed, here are some popular options:
 
@@ -90,3 +99,12 @@ To work with your code, you will need an IDE or text editor. You may already hav
   - Python focused, but works with other languages as well
 - [RStudio](https://www.rstudio.com/)
   - R focused, but works with other languages as well
+
+For this tutorial, if you don't want to install an IDE or text editor, you can use any text editor you are comfortable with, such as Notepad (Windows), TextEdit (macOS), or Gedit (Linux).
+
+## Configure GitHub Desktop - Optional
+
+Once you have GitHub Desktop installed, there are a few settings you may want to configure:
+
+- Default editor: You can set your preferred text editor or IDE as the default editor for opening files in GitHub Desktop.
+  -  instructions found [here](https://docs.github.com/en/desktop/configuring-and-customizing-github-desktop/configuring-a-default-editor-in-github-desktop)
