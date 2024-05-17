@@ -82,7 +82,7 @@ GitHub Desktop is not officially available for Linux, but because the source cod
 
 ## Install Git - Optional
 
-GitHub Desktop comes with its own trimmed down version of Git, so you don't need to install Git separately. However, this version of Git is not assessable from the command line. If you want to use Git from the command line, you can install Git separately.
+GitHub Desktop comes with its own trimmed down version of Git, so you don't need to install Git separately. However, this version of Git is not accessible from the command line. If you want to use Git from the command line, you can install Git separately.
 You can find instructions for installing Git on Windows, macOS, and Linux [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
 
 On macOS and Linux, Git is often pre-installed, so you may not need to install it, you can check by opening a terminal and typing `git --version`.
