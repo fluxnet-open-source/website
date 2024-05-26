@@ -4,12 +4,12 @@ In this chapter, we'll guide you through making changes to your newly created re
 
 ## Table of Contents
 
-1. [Step 1: Open Your Repository in GitHub Desktop](#open-your-repository-in-github-desktop)
-2. [Step 2: Open the Repository in Your Default Editor](#open-the-repository-in-your-default-editor)
-3. [Step 3: Create or Edit a README File](#create-or-edit-a-readme-file)
-4. [Step 4: Save Your Changes](#save-your-changes)
-5. [Step 5: Commit Your Changes](#commit-your-changes)
-6. [Step 6: Verify Your Commit](#verify-your-commit)
+1. [Open Your Repository in GitHub Desktop](#open-your-repository-in-github-desktop)
+2. [Open the Repository in Your Default Editor](#open-the-repository-in-your-default-editor)
+3. [Create or Edit a README File](#create-or-edit-a-readme-file)
+4. [Save Your Changes](#save-your-changes)
+5. [Commit Your Changes](#commit-your-changes)
+6. [Verify Your Commit](#verify-your-commit)
 
 ## Open Your Repository in GitHub Desktop
 

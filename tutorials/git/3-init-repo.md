@@ -3,8 +3,8 @@
 ## Table of Contents
 
 1. [Create a New Repository](#create-a-new-repository)
-1. [Step 3: Fill in Repository Details](#fill-in-repository-details)
-1. [Step 5: Verify the Repository](#verify-the-repository)
+1. [Fill in Repository Details](#fill-in-repository-details)
+1. [Verify the Repository](#verify-the-repository)
 
 ## Create a New Repository
 
