@@ -10,9 +10,7 @@ parts:
   chapters:
   - file: tutorials/git/index
     sections:
-    - file: tutorials/git/1-basics
-    - file: tutorials/git/2-setup
-    - file: tutorials/git/3-init-repo
+      - *
 - caption: Resources Guide
   chapters:
   - file: resources-guide/index
