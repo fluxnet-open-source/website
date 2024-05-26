@@ -59,7 +59,7 @@ This is a test commit for demonstrating GitHub Desktop features.
 1. In the `History` tab, highlight multiple commits with shift will allow you to compare the differences between several commits
 2. Click on any file listed in the commit to see a side-by-side comparison of the changes made (diff view).
 
-![Image: showing a diff between multiple commits](fig%2Fmulti-commit-dff.png)
+![Image: showing a diff between multiple commits](fig/multi-commit-dff.png)
 
 ## Reverting a Commit
 
@@ -70,7 +70,7 @@ This is a test commit for demonstrating GitHub Desktop features.
 2. GitHub Desktop will create a new commit that undoes the changes made by the selected commit.
 3. You can view this new commit in the `History` tab to verify that the changes were reverted.
 
-![Image: Showing the reverted commit](fig%2Freverted-commit.png)
+![Image: Showing the reverted commit](fig/reverted-commit.png)
 
 ## Reverting vs. Undoing Commits
 
