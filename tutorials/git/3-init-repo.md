@@ -8,7 +8,7 @@
 
 ## Create a New Repository
 
-1. Click on the `File` menu in the top left corner.
+1. In GitHub Desktop, click on the `File` menu in the top left corner.
 2. Select `New repository...` from the dropdown menu.
 
 ![Image: New repository menu location](fig/new-repo-menu.png)

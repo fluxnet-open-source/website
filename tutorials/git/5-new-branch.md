@@ -14,8 +14,7 @@ Another useful feature of Git is that you can go back and forth between branches
 
 ## Creating a Branch
 
-1. Open GitHub Desktop and navigate to your repository.
-1. Click on the `Current Branch` dropdown in the top toolbar.
+1. In GitHub Desktop, click on the `Current Branch` dropdown in the top toolbar.
 1. Select `New Branch...` from the dropdown menu.
 
 ![Image: New branch menu](fig/new-branch.png)
