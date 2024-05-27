@@ -27,7 +27,7 @@ Another useful feature of Git is that you can go back and forth between branches
     - `docs/branch-name`: for documentation changes
 1. Click the `Create Branch` button.
 
-![Image: branch name menu](fig%2Fbranch-name.png)
+![Image: branch name menu](fig/branch-name.png)
 
 ## Making and Committing Changes in the New Branch
 
