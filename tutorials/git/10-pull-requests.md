@@ -60,6 +60,8 @@ If you just pushed to a branch, often GitHub will have a button to create a PR r
 
 If you copy and paste the commit message (including the expanded description by clicking on the commit message), it will automatically link to the commit, making it easier for reviewers to see the changes.
 
+Though you might need to do some manual formatting if it is a multi-line commit message.
+
 ![Image: GitHub highlight of commit message](fig/github-copy-commit-message.png)
 
 ![Image: GitHub commit message pasted in showing commit message and SHA](fig/github-copied-commit-message.png)
