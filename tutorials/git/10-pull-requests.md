@@ -44,8 +44,6 @@ or on github.com, navigate to your profile icon and click on your repositories a
 
 ![Image: GitHub new PR button](fig/githb-new-pr.png)
 
-
-
 4. Select the `base` branch (e.g., `main`) and the `compare` branch (e.g., `feature/awesome-feature`).
 
 ![Image: GitHub PR preview](fig/pr-preview.png)

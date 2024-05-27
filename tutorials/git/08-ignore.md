@@ -90,5 +90,4 @@ rsconnect/
 4. Click the `Commit to main` button to commit the `.gitignore` file to your repository.
 
 
-
 By following these steps, you can create and use a `.gitignore` file in your Git repository to keep your project clean, secure, and manageable. This file is essential for any project to ensure that only relevant and necessary files are tracked by Git.

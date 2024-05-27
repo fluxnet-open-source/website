@@ -13,7 +13,7 @@ Version control is a system that records changes to a file or set of files over 
 ## Chapters to be added
 
 - set up their own repositories
-  - gitignore
+- gitignore
 - clone a repository
 - commit changes
 - create branches
