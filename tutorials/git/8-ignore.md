@@ -1,4 +1,4 @@
-# Chapter: Using .gitignore in GitHub Desktop
+# Using .gitignore in GitHub Desktop
 
 In this chapter, you'll learn about the `.gitignore` file, why it's important, and how to use it in your Git repository. 
 
