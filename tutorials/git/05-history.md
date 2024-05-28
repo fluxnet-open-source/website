@@ -72,6 +72,18 @@ This is a test commit for demonstrating GitHub Desktop features.
 
 ![Image: Showing the reverted commit](fig/reverted-commit.png)
 
+### How Does Git Know What Changed?
+
+<details>
+    <summary>Optional Section</summary>
+
+Git uses a sophisticated algorithm to determine the differences between two versions of a file. It compares the content line by line and identifies what lines were added, removed, or modified. This process is known as a "diff" (short for difference) and is essential for tracking changes in a version control system like Git.
+
+As you commit changes to your repository, Git stores the original file content in a compressed state. When you commit changes, Git will sometimes store the entire file, but it can also store only the changes made to the file, depending on the size and complexity of the changes. This process helps Git efficiently manage the history of your project and reduce the storage space needed for version control.
+
+</details>
+
+
 ## Reverting vs. Undoing Commits
 
 - **Reverting a Commit**: This creates a new commit that undoes the changes made by a previous commit. Reverting is safe to do even if the commit has been pushed to a remote repository because it maintains the commit history.

@@ -53,8 +53,10 @@ or on github.com, navigate to your profile icon and click on your repositories a
 
 If you just pushed to a branch, often GitHub will have a button to create a PR right after you push, that fills in a lot of the details for you to streamline the process.
 
+#### Description Tip
+
 <details>
-  <summary>Description Tip</summary>
+  <summary>Optional Section</summary>
 
 If you copy and paste the commit message (including the expanded description by clicking on the commit message), it will automatically link to the commit, making it easier for reviewers to see the changes.
 
@@ -110,8 +112,10 @@ We just made changes to our repository on GitHub, but our local repository is no
 ![Image: GitHub Desktop pull origin button](fig/pull-origin.png)
 
 
+### Fetch and Pull Note with Git clients
+
 <details>
-  <summary>fetch and pull note with Git clients</summary>
+  <summary>Optional Section</summary>
 
 Some Git clients like GitHub Desktop will automatically fetch changes from the remote repository when you open the application or switch branches. However, it's a good practice to manually fetch changes to ensure your local repository is up-to-date with the remote repository.
 

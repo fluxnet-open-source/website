@@ -24,10 +24,10 @@ In this chapter, you'll learn how to revisit old commits in GitHub Desktop. We'l
 - In a detached HEAD state, any changes you make will not be associated with any branch. This can lead to losing your work if you switch branches or commits without creating a new branch from the detached state.
 
 
-
+### What is a HEAD in Git?
 
 <details>
-  <summary>What is a HEAD in Git?</summary>
+  <summary>Optional Section</summary>
   
 ## Definition of HEAD in Git
 
@@ -48,6 +48,7 @@ In Git, **HEAD** is a pointer that references the current commit that your worki
 If you are working on the `main` branch, HEAD will point to the most recent commit in the `main` branch. If you switch to another branch called `feature-branch`, HEAD will then point to the latest commit in the `feature-branch`.
 
 In summary, HEAD is an important concept in Git that helps you understand your current working state and navigate between different commits and branches in your repository.
+
 </details>
 
 
