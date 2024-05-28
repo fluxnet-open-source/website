@@ -5,6 +5,7 @@
 1. [Create a New Repository](#create-a-new-repository)
 1. [Fill in Repository Details](#fill-in-repository-details)
 1. [Verify the Repository](#verify-the-repository)
+1. [Alternative Method: Create a Repository Directly on GitHub and Clone it to GitHub Desktop](#alternative-method-create-a-repository-directly-on-github-and-clone-it-to-github-desktop)
 
 ## Create a New Repository
 
@@ -15,8 +16,8 @@
 
 ## Fill in Repository Details
 
-1. **Name**: Enter a name for your repository.
-2. **Description**: Optionally, enter a description for your repository.
+1. **Name**: Enter a name for your repository, this tutorial will use `git-webinar`.
+2. **Description**: Optionally, enter a description for your repository, for example, `"A repository for the GitHub Desktop Webinar"`.
 3. **Local Path**: Choose a location on your computer where the repository will be created.
 4. **Initialize this repository with a README**: Check this box to include a blank README file in the repository. If it is recommended to include a README file in a repository, as it provides information about the project and helps others understand its purpose, especially public repositories. But you can always add a README file later manually if you prefer.
   - Leave this box unchecked for this tutorial.
@@ -32,3 +33,23 @@ Click the `Create repository` button. GitHub Desktop will create the repository 
 After creating the repository, you will be taken to the repository view in GitHub Desktop. You should see the current status of the repository, and the files that are part of the repository (which should be empty if you did not add any files yet).
 
 ![Image: new repository desktop overview](fig/desktop-overview.png)
+
+
+## Alternative Method: Create a Repository Directly on GitHub and Clone it to GitHub Desktop
+
+If you prefer to create a repository directly on GitHub's website, you can follow these steps:
+
+1. Go to your account on [GitHub](https://github.com)
+2. Click on the `+` icon in the top right corner and select `New repository`.
+
+![Image: location on Github of where to create a new repo](fig/github-new-repo-location.png)
+
+3. Fill in the repository details (name, description, public/private, etc.). and click `Create repository`.
+
+![Image: new repo details](fig/github-new-repo.png)
+
+4. In GitHub Desktop, click on the `File` menu in the top left corner and click on `Clone repository...` or click the Add button and select `Clone repository...`.
+
+5. Select the repository you just created on GitHub and choose a local path to clone the repository to your computer. Click `Clone`.
+
+![Image: Github desktop cloning menu to clone a repo](fig/desktop-clone-self-repo.png)
