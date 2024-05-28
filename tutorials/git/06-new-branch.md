@@ -61,4 +61,4 @@ With Git you can switch back to the main branch easily (or another branch). You 
 
 3. Verify that you are now on the main branch and your previous changes are not present in this branch, and if you look in your text editor, you should see the changes you made in the new branch are no longer visible (such as the `awesome-feature.md` file not being present).
 
-![switched-back-to-main.png](fig/history-tab.png)
+![switched-back-to-main.png](fig/history-tab.png)                                

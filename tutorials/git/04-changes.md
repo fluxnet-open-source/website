@@ -1,4 +1,4 @@
-# Chapter: Making and Committing Changes in Your GitHub Desktop Repository
+# Making and Committing Changes in Your GitHub Desktop Repository
 
 In this chapter, we'll guide you through making changes to your newly created repository using GitHub Desktop. You will learn how to open your default editor, create or edit files, and commit those changes to your repository.
 

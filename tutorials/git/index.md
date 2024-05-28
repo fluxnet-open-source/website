@@ -6,24 +6,9 @@ Version control is a system that records changes to a file or set of files over 
 
 ## Table of Contents
 
-1. [Overview of Git](1-basics.md)
-1. [Setup instructions](2-setup.md)
-2. [Create and initialize a repository](3-init-repo.md)
-
-## Chapters to be added
-
-- set up their own repositories
-- gitignore
-- clone a repository
-- commit changes
-- create branches
-- submit pull requests
-- merge conflicts
-- forks
-
-
-- rebase?
-- cherry-pick?
-- squash?
-- stash?
-- revert?
+1. [Setup instructions](02-setup.md)
+2. [Overview of Git](025-basics.md)
+3. [Create and initialize a repository](03-init-repo.md)
+4. [Making and committing changes](04-changes.md)
+5. [Viewing commit history](05-history.md)
+6. [Understanding branches](06-new-branch.md)

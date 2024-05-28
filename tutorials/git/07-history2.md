@@ -20,7 +20,7 @@ In this chapter, you'll learn how to revisit old commits in GitHub Desktop. We'l
 
 ## Understanding Detached HEAD
 
-- When you check out an old commit, Git places you in a "detached HEAD" state. This means that your `HEAD` (Or current location) is not pointing to a branch but to a specific commit.
+- When you check out an old commit, Git places you in a "detached HEAD" state. This means that your `HEAD` (a pointer that references the current location) is not pointing to the end of a branch but to a specific commit.
 - In a detached HEAD state, any changes you make will not be associated with any branch. This can lead to losing your work if you switch branches or commits without creating a new branch from the detached state.
 
 
