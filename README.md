@@ -1,5 +1,3 @@
-# Code committee website
-
 # FLUXNET Open Source Working Group Website
 
 Welcome to the FLUXNET Open Source Website repository! This repository is managed by the FLUXNET Open Source Working Group and serves as the codebase for our website, which hosts a comprehensive resource guide on various software and open-source topics, as well as tutorials.
