@@ -1,4 +1,4 @@
-# Git, GitHub, and GitHub Desktop Tutorial
+# Version Control, Git, GitHub, and GitHub Desktop
 
 ## What is Version Control?
 

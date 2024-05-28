@@ -15,4 +15,10 @@ parts:
   chapters:
   - file: resources-guide/index
     sections:
-    - glob: resources-guide/*
+    - file: resources-guide/git
+    - file: resources-guide/documentation
+    - file: resources-guide/code_performance_and_scalability
+    - file: resources-guide/dependency_management
+    - file: resources-guide/error_handling
+    - file: resources-guide/logging
+    - file: resources-guide/testing
