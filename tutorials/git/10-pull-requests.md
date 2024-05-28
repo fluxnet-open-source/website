@@ -9,6 +9,7 @@ In this chapter, you'll learn how to publish a branch, open a Pull Request (PR) 
 3. [Navigating the PR Interface](#navigating-the-pr-interface)
 4. [Merging a PR](#merging-a-pr)
 5. [Fetching Changes](#fetching-changes)
+6. [Viewing Merged History](#viewing-merged-history)
 
 
 ## What is merging?
@@ -122,3 +123,13 @@ Some Git clients like GitHub Desktop will automatically fetch changes from the r
 Some other Git clients combine the fetch and pull steps into a single operation, so you might see a "Fetch and Pull" or "Sync" button instead of separate fetch and pull buttons.
 
 </details>
+
+## Viewing Merged History
+
+We can see in GitHub Desktop that our `main` branch is now up-to-date with the remote repository. We can also see the history of our repository, including our commit we made to add our awesome-feature.md file as well as the merge commit that was created when we merged our `feature/awesome-feature` branch into `main`.
+
+![Image: merged history of commits](fig/desktop-merged-history.png)
+
+### Note About Branches and Commits
+
+We can see that our commit we made to add our awesome-feature.md file is now part of the `main` branch. Conceptionally, branches are just pointers to commits. Commits don't belong to branches, branches are just a label for a commit, a commit can have several labels (branches) pointing to it.
