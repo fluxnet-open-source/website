@@ -1,4 +1,4 @@
-# Revisiting Old Commits in GitHub Deskt
+# Revisiting Old Commits in GitHub Desktop
 
 
 In this chapter, you'll learn how to revisit old commits in GitHub Desktop. We'll guide you through checking out an old commit to view it, explain what a detached HEAD is and its dangers, and show you how to create a branch from an old commit if you want to continue from that point.
