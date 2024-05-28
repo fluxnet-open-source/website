@@ -11,7 +11,7 @@ In this chapter, you'll learn how to clone and fork repositories using GitHub De
 
 Let's say you have deleted your local repository and want to "clone" (download) it from GitHub. This is a common scenario when you want to work on a project that is hosted on GitHub. Cloning a repository creates a local copy on your computer where you can make changes, commit them, and push them back to the remote repository.
 
-Or, you might want to clone a repository from someone else to explore or experiement with their code. This is a common practice when you want to learn from others 
+Or, you might want to clone a repository from someone else to explore or experiment with their code. This is a common practice when you want to learn from others 
 
 ### Steps to Clone a Repository
 

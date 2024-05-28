@@ -1,3 +1,5 @@
+# Where to Host Your Work
+
 A big question for groups that want to open up their work is where to
 host their code and data.  One option is for the lab, the department, or the
 university to provide a server, manage accounts and backups, and so on.  The
@@ -39,16 +41,3 @@ integrity and quality standards.  While CI is still available in self-hosted
 situations, there is much less setup and maintenance involved with using an
 online service.  Furthermore, such tools are often provided free of charge to
 open source projects, and are also available for private repositories for a fee.
-
-## Institutional Barriers
-
-Sharing is the ideal for science,
-but many institutions place restrictions on sharing,
-for example to protect potentially patentable intellectual property.
-
-## Can My Work Be Public?
-
-Find out whether you are allowed to host your work openly in a public repository.
-Can you do this unilaterally,
-or do you need permission from someone in your institution?
-If so, who?
