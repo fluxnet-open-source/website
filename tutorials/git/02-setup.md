@@ -1,4 +1,4 @@
-# Setup GitHub Desktop on Windows, macOS, or Ubuntu
+# 1: Pre Workshop: Setup GitHub Desktop on Windows, macOS, or Ubuntu
 
 ## Introduction
 

@@ -10,8 +10,7 @@ parts:
   chapters:
   - file: tutorials/git/index
     sections:
-    - file: tutorials/git/1-basics
-    - file: tutorials/git/2-setup
+    - glob: tutorials/git/*
 - caption: Resources Guide
   chapters:
   - file: resources-guide/index
