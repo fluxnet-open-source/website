@@ -59,10 +59,12 @@ After editing or creating the `README.md` file, save the changes in your text ed
 ## Commit Your Changes
 
 1. Return to GitHub Desktop. You should see that your changes are detected under the `Changes` tab.
-2. In the `Summary` field, write a brief description of the changes you made (e.g., "Add initial README file").
+2. Select the files you want to commit by checking the box next to the file name.
+  - Only the files you want to commit should be checked. Unchecked files will not be included in the commit.
+3. In the `Summary` field, write a brief description of the changes you made (e.g., "Add initial README file").
   - The summary should be concise and describe the main purpose of the changes. Convention is to keep it under 50 characters and use the imperative mood (e.g., "Add feature" instead of "Added feature"). You should try and keep it under 72 characters to ensure it is displayed correctly in some tools. But don't worry too much about this, as tools are more flexible than they used to be. 
-3. Optionally, add a more detailed description in the `Description` field.
-4. Click the `Commit to main` button to commit your changes.
+4. Optionally, add a more detailed description in the `Description` field.
+5. Click the `Commit to main` button to commit your changes.
 
 ![Image: Example of first commit message](fig/first-commit.png)
 
