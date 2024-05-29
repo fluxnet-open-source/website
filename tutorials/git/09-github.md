@@ -73,7 +73,7 @@ You can also see a number of tabs at the top of the repository page. These tabs 
 8. **Insights**: This tab shows insights into the repository, such as traffic, code frequency, and contributors.
 9. **Settings**: This tab allows you to change the settings for the repository.
 
-![Image: Overview of GitHub repo](fig/github-repo-overview.png)
+![Image: Overview of GitHub rdepo](fig/github-repo-overview.png)
 
 Underneath the Code button, find and click on the text that says "XX commits" (where "XX" is some number).
 
