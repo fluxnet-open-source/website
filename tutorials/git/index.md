@@ -2,7 +2,7 @@
 
 ## What is Version Control?
 
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to collaborate on a project, keeps track of every modification to the code, and can help revert to a previous version if necessary, but even if you are working alone, it can make things so much easier.
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to collaborate on a project, keeps track of every modification to the code, and can help revert to a previous version if necessary. Even if you are working alone, it can make things so much easier.
 
 ## Table of Contents
 
