@@ -31,7 +31,7 @@ Initiative](https://opensource.org/licenses) and [Free Software
 Foundation](https://www.gnu.org/licenses/license-list.html) both
 maintain lists of licenses which are good choices.
 
-[This article][software-licensing] provides an excellent overview of
+[This article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598) provides an excellent overview of
 licensing and licensing options from the perspective of scientists who
 also write code.
 
@@ -42,6 +42,4 @@ decision only makes it more complicated later, because each time a new
 collaborator starts contributing, they, too, hold copyright and will
 thus need to be asked for approval once a license is chosen.
 
-[software-licensing]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598
-
-(Taken from the [Software Carpentry](https://software-carpentry.org/)
+(Taken from the [Software Carpentry](https://software-carpentry.org/))

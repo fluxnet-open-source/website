@@ -148,7 +148,7 @@ Either way you resolve the conflict, once the conflict is resolved, you can appr
 
 ## Pulling Changes While Developing
 
-When you are working on a feature branch, especially if it's a longer-lived branch, it's a good idea to pull changes from the main branch (or develop, or any other branch you want to keep up to date with) into your feature branch regularly. This helps prevent conflicts from building up and makes it easier to resolve them when they do occur.
+When you are working on a feature branch, especially if it's a longer-lived branch, it's a good idea to pull changes from the main branch (or develop, or any other branch you want to keep up to date with) into your feature branch regularly. This helps prevent conflicts from building up and makes it easier to resolve them when they do occur, especially when working on a project with other people.
 
 You do this by merging the main branch into your feature branch, resolving any conflicts that arise, and then continuing your work. This way, you can keep your feature branch up-to-date with the latest changes in the main branch and avoid conflicts when you merge your feature branch back into the main branch.
 

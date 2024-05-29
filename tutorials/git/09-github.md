@@ -27,7 +27,9 @@ GitHub Desktop lets us publish our local repository directly to GitHub. To do th
 ![Image: Publishing a Repository to GitHub (Step 1)](fig/github-desktop-publish-repo.png)
 
 We then fill in the repository name and description, and click whether we want the code to be private or not, and click the "Publish repository" button.
-  - There may be other options such as what organization to put the repository in, but we can ignore those for now.
+    
+- if you keep the repo private, only you and collaborators you invite will be able to see the code.
+- There may be other options such as what organization to put the repository in, but we can ignore those for now.
 
 ![Image: Creating a Repository on GitHub (Step 2)](fig/github-desktop-publish-repo-create.png)
 

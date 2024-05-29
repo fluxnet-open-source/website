@@ -34,7 +34,7 @@ Click the `Create repository` button. GitHub Desktop will create the repository 
 
 ## Verify the Repository
 
-After creating the repository, you will be taken to the repository view in GitHub Desktop. You should see the current status of the repository, and the files that are part of the repository (which should be empty if you did not add any files yet).
+After creating the repository, you will be taken to the repository view in GitHub Desktop. You should see the current status of the repository, such as a list of what files have been changed (which should be empty if you did not add any files yet).
 
 ![Image: new repository desktop overview](fig/desktop-overview.png)
 

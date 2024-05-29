@@ -1,6 +1,8 @@
 # Pull Requests (PRs) in GitHub
 
-In this chapter, you'll learn how to publish a branch, open a Pull Request (PR) on GitHub, navigate the PR interface, and merge code. You'll also learn about what happens when there is a conflict during the merge process and how to resolve it. 
+In this chapter, you'll learn how to publish a branch, open a Pull Request (PR) on GitHub, navigate the PR interface, and merge code.
+
+PRs are central to collaborative code development as they allow developers to propose changes to a codebase, which can then be reviewed, discussed, and approved by team members before being merged. This process ensures that all changes are vetted for quality and consistency, enhancing the overall integrity of the project. PRs facilitate communication among team members, allowing for feedback and collaboration on specific code changes. PRs can also be central to your own personal workflow, as they allow you to work on a feature or bug fix in isolation and then merge it into the main codebase when ready.
 
 ## Table of Contents
 

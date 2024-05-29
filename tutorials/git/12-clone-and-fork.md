@@ -19,8 +19,8 @@ Or, you might want to clone a repository from someone else to explore or experim
 2. In the `Clone a Repository` dialog, you can search for a repository by URL, GitHub username, or repository name.
 3. Select the repository you want to clone.
   - here you can choose the url for this tutorial's repository: https://github.com/fluxnet-open-source/website
-- Choose a local path where you want to clone the repository on your computer, including the local repository name.
-- Click the `Clone` button.
+4. Choose a local path where you want to clone the repository on your computer, including the local repository name.
+5. Click the `Clone` button.
 
 ![Image: GitHub Desktop repo cloning Menu](fig/clone-repo.png)
 

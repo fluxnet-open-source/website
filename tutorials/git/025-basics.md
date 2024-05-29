@@ -26,17 +26,17 @@ Git is a distributed version control system designed to handle everything from s
 
 ## Why Should You Use Version Control and Git?
 
-### 1. **Collaboration**
+### Collaboration
 
 Version control allows multiple developers to work on the same project simultaneously without overwriting each other's work. Git makes it easy to merge changes and resolve conflicts.
 
-### 2. **History and Backup**
+### History and Backup
 
 Every change made to the project is recorded, providing a complete history of the project. This is crucial for understanding what changes were made, by whom, and why. It also acts as a backup, allowing you to revert to previous versions if needed.
 
 ![Graphic: Changes Are Saved Sequentially - source: https://github.com/swcarpentry/git-novice](fig/play-changes.svg){w=400px}
 
-### 3. **Branching and Experimentation**
+### Branching and Experimentation
 
 Git allows you to create branches to work on new features, bug fixes, or experiments without affecting the main codebase. 
 
@@ -54,3 +54,9 @@ GitHub is a web-based platform that uses Git for version control and provides a 
 ## What is GitHub Desktop?
 
 GitHub Desktop is a user-friendly application that provides a graphical interface to interact with Git and GitHub. It simplifies the process of managing your repositories, making it accessible even for those who are not familiar with the command-line interface.
+
+### GitHub Desktop Alternatives
+
+While GitHub Desktop is a popular choice for beginners, there are other Git clients available that offer similar or more functionality. Your text editor or IDE probably has Git integration that can do everything GitHub Desktop can do and more for free. There are also GUI clients like GitKraken, Sourcetree, and others, that do a lot more than GitHub Desktop, but those are often paid. We had to choose a common tool for everyone regardless of what text editor or IDE they use, and GitHub Desktop is a good basic choice for that.
+
+Most of these tools and functions in this tutorial will be similar across different Git clients, so after this tutorial, you can explore other tools, try out a git extension in your text editor or IDE of choice, or even use the command line if you prefer.
