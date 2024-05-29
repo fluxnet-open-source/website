@@ -10,7 +10,7 @@ The FLUXNET Open Source Website is designed to be a dynamic and informative plat
 
 ## Resource Guide
 
-The Resource Guide is a collection of software and general open-source code development topics that are relevant . It covers a wide range of tools and technologies, including using git, documenting your code, error handling, logging, CI/CD, and more. The guide is designed to be jumping off points for users to learn more about these topics and explore further, with links provided to additional resources.
+The Resource Guide is a collection of software and general open-source code development topics that are relevant. It covers a wide range of tools and technologies, including using git, documenting your code, error handling, logging, CI/CD, and more. The guide is designed to be jumping off points for users to learn more about these topics and explore further, with links provided to additional resources.
 
 ## Tutorials
 
@@ -18,4 +18,4 @@ The Tutorials section provides step-by-step guides to help users get started wit
 
 ## Contribution Guidelines
 
-We encourage community contributions to help us grow and enhance the website. Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) if you would like to contribute to the project.
+This website is intended to be a community resource, and we strongly encourage community contributions to help us grow and enhance the website. Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) if you would like to contribute to the project.
