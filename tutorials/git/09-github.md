@@ -1,4 +1,4 @@
-# GitHub and Remote Repositories
+# 9: GitHub and Remote Repositories
 
 Version control really comes into its own when we begin to collaborate with
 other people.  We already have most of the machinery we need to do this; the

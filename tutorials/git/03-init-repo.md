@@ -1,4 +1,4 @@
-# How to Create and Initialize a Git Repository Locally Using GitHub Desktop
+# 3: How to Create and Initialize a Git Repository Locally Using GitHub Desktop
 
 A Git repository is a storage space where your project's files and their history are tracked using Git, a version control system. It allows developers to manage changes to a project's source code over time, enabling collaboration by keeping a detailed history of modifications, additions, and deletions. Each change is recorded in the repository with a unique identifier, making it possible to revert to previous versions if needed.
 

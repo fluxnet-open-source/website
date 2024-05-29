@@ -1,4 +1,4 @@
-# Licensing
+# 13: Licensing
 
 When a repository with source code, a manuscript or other creative
 works becomes public, it should include a file `LICENSE`,

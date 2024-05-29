@@ -1,4 +1,4 @@
-# Viewing and Managing History with GitHub Desktop
+# 5: Viewing and Managing History with GitHub Desktop
 
 In this chapter, you'll learn how to manage the commit history using GitHub Desktop. We'll guide you through making a test commit, viewing individual previous commits, checking the differences (diff) across several commits, and reverting a commit. We'll also discuss the difference between reverting and undoing commits.
 

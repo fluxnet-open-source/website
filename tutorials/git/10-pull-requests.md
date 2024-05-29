@@ -1,4 +1,4 @@
-# Pull Requests (PRs) in GitHub
+# 10: Pull Requests (PRs) in GitHub
 
 In this chapter, you'll learn how to publish a branch, open a Pull Request (PR) on GitHub, navigate the PR interface, and merge code.
 

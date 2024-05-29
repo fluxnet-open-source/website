@@ -1,4 +1,4 @@
-# Cloning and Forking a Repository
+# 12: Cloning and Forking a Repository
 
 In this chapter, you'll learn how to clone and fork repositories using GitHub Desktop and GitHub. Cloning a repository allows you to create a local copy of an existing repository, while forking creates a copy of someone else's repository under your own GitHub account, enabling you to make changes and propose them back to the original project.
 

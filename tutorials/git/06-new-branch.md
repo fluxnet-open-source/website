@@ -1,4 +1,4 @@
-# Creating a Branch
+# 6: Creating a Branch
 
 In this chapter, you'll learn how to create a new branch, make and commit changes in that branch, and then switch back to the main branch using GitHub Desktop.
 
