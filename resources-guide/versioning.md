@@ -19,7 +19,7 @@ This is a common and valid question, since tools like Git can be used for both.
 
 There are many different versioning schemes in practice. Rather than appending a "_v2" to your file name, there are sophisticated yet simple versioning schemes along with free tools that do most of the work. See the resources below for links to descriptions of major schemes as well as free tools.
 
-Two of the most common versioning techniques are Semantic versioning (a.k.a SemVer) and Calender Versioning (a.k.a CalVer). We generally recommend for most projects to use SemVer, but both versioning techniques are described bellow.
+Two of the most common versioning techniques are Semantic versioning (a.k.a SemVer) and Calender Versioning (a.k.a CalVer). We generally recommend for most projects to use SemVer, but both versioning techniques are described below.
 
 
 ### Semantic Versioning
@@ -40,15 +40,16 @@ This is the strategy that projects such as Ubuntu uses to version their releases
 There are many ways to integrate versioning with version control software like Git. Here are a few common practices:
 
 * Tagging - You can tag specific commits in Git with a version number. This is a good way to keep track of what version of the code was used for a particular release or analysis.
+  * Many software languages have built-in support, or packages that tie into the language some sort of connection with the version number and tagging. For example, in Python, you can use the `setuptools` package and `setuptools_scm` to specify the version number with your git tags.
 * Version Control Systems - Many version control systems have built-in support for versioning. For example, Git has the concept of tags and branches, which can be used to keep track of different versions of the code.
-
 
 ## Resources
 
 ### Versioning schemes and practices
 * Wikipedia page on [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semantic versioning](https://semver.org/), a.k.a Semver - a commonly used versioning scheme that we recommend
+* [Semantic versioning](https://semver.org/) - a commonly used versioning scheme that we recommend
 * [FAIR Software](https://fair-software.nl/) - recommendations for open software
+* [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) - a way to package and release software on GitHub, built on top of Git tags that are useful for versioning, allowing you to attach release notes and assets (release compiled binaries, release code, etc.) to a specific version of your code
 
 ### Free tools
 * [Git](https://git-scm.com/) and [Github](https://github.com/) - see our [Resource Guide](https://fluxnet-open-source.readthedocs.io/en/latest/resources-guide/git.html) and [Tutorial](https://fluxnet-open-source.readthedocs.io/en/latest/tutorials/git/index.html)!
