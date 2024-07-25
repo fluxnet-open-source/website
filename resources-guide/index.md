@@ -8,3 +8,4 @@
 * [Error Handling](./error_handling) - Handling errors and exceptions
 * [Logging](./logging) - Code logging, including logging packages, logging to a file, console, and elsewhere, and logging levels
 * [Testing](./testing) - Automated testing and continuous integration/continuous deployment (CI/CD)
+* [Versioning](./versioning.md) - Tracking and communicating changes in software
