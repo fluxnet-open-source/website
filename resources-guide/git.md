@@ -13,7 +13,7 @@ Linked below are several excellent detailed descriptions and tutorials on the bu
 * [Pro Git Book](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub. Comprehensive concepts, with tutorials.
 
 ### Tutorials
-* [Our own GitHub Desktop GUI tutorial](../tutorials/git/index.md) - an introductory, step by step, overview of basic git functionality using GitHub desktop that could be converted to any GUI git experience
+* [Our own GitHub Desktop GUI tutorial](../tutorials/git/index.md) - an introductory, step by step, overview of basic git functionality using GitHub Desktop (applicable to any GUI git application)
 * [Git tutorial for novices](https://swcarpentry.github.io/git-novice/) from Software Carpentry
     * Also see the main [Lessons page](https://software-carpentry.org/lessons/) at Software Carpentry for many other tutorials
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/) from Jenny Bryan (for use with RStudio)
