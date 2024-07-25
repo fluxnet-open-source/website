@@ -22,3 +22,4 @@ parts:
     - file: resources-guide/error_handling
     - file: resources-guide/logging
     - file: resources-guide/testing
+    - file: resources-guide/versioning
