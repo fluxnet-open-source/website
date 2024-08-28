@@ -82,6 +82,8 @@ rsconnect/
 
 ```
 
+Some additional gitignore templates resources can be found in the [gitignore section of the git resource guide page](../../resources-guide/git.md#gitignore).
+
 ## Adding .gitignore to Your Repository
 
 1. Save the `.gitignore` file in your text editor.
