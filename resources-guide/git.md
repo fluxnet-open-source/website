@@ -18,8 +18,12 @@ Linked below are several excellent detailed descriptions and tutorials on the bu
     * Also see the main [Lessons page](https://software-carpentry.org/lessons/) at Software Carpentry for many other tutorials
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/) from Jenny Bryan (for use with RStudio)
 
+### Gitignore
+* [Gitignore generator](https://gitignore.io) - a website to generate .gitignore files for your project from templates based on language, OS, project framework, etc. If you provide multiple templates, it will generate a single .gitignore file that combines them.
+* [A brief explanation of .gitignore](https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html) for RStudio
+* [Python gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore) - a sample .gitignore file for Python projects
+
 ### Advanced topics
 * [Pre-commit](https://pre-commit.com): git commit hook manager
-* [A brief explanation of .gitignore](https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html) for RStudio
 * [Git Large File Storage](https://git-lfs.com/)
 * [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
