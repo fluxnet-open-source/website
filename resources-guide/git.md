@@ -19,7 +19,7 @@ Linked below are several excellent detailed descriptions and tutorials on the bu
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/) from Jenny Bryan (for use with RStudio)
 
 ### Gitignore
-* [Gitignore generator](gitignore.io) - a website to generate .gitignore files for your project from templates based on language, OS, project framework, etc. If you provide multiple templates, it will generate a single .gitignore file that combines them.
+* [Gitignore generator](https://gitignore.io) - a website to generate .gitignore files for your project from templates based on language, OS, project framework, etc. If you provide multiple templates, it will generate a single .gitignore file that combines them.
 * [A brief explanation of .gitignore](https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html) for RStudio
 * [Python gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore) - a sample .gitignore file for Python projects
 
